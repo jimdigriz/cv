@@ -12,4 +12,12 @@ I was Telemetry's primary investigator for fraud, handling the discovery, identi
 
 #### Projects
 
-TODO
+##### DMC/dyncfg
+
+Designed and developed a unique tool not found anywhere in the industry that enabled developers to run experiments on live traffic safely, getting feedback in seconds rather than hours on their staged changes
+
+##### Datacentre Migration
+
+##### Plan Blue
+
+

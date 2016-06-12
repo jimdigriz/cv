@@ -9,8 +9,8 @@ Whilst there, and due to my involvements with eduroam, 802.1X and FreeRADIUS I w
 #### Projects and Presentations
 
  * [LanWarden](https://webmedia.company.ja.net/content/documents/shared/networkshop080408/clouter-lanwarden.pdf) - an in house framework that uses FreeRADIUS with LDAP to make 802.1X/MAC-auth policy decisions
- * IPTV rollout - replaced an analogue service, bringing 70 television and 15 radio foreign satellite broadcasts to every desktop
- * Anycast'ing Enabling of Services - brought high-availability to services (eg. DNS) without adding the complexities, expense and single point of failure that load-balancers can bring
- * DNS Hijacking and IP Blackholing - made the network infrastructure another layer of protection for our users from downloading infectious payloads and phishing attacks whilst also providing the network team an easy way to discover the many instances that anti-virus software had failed
+ * [IPTV rollout](https://www.soas.ac.uk/itsupport/iptv/) - replaced an analogue service, bringing 70 television and 15 radio foreign satellite broadcasts to every desktop
+ * [Anycast'ing Enabling of Services](https://www.digriz.org.uk/ha-ospf-anycast) - brought high-availability to services (eg. DNS) without adding the complexities, expense and single point of failure that load-balancers can bring
+ * [DNS Hijacking and IP Blackholing](https://github.com/jimdigriz/network-layer-protection) - made the network infrastructure another layer of protection for our users from downloading infectious payloads and phishing attacks whilst also providing the network team an easy way to discover the many instances that anti-virus software had failed
  * [SLACCers](https://webmedia.company.ja.net/content/documents/shared/networkshop120411/clouter_slaacersipv6withoutdhcpv6butwithaccountability.pdf) - IPv6 Accountability without DHCPv6
  * [DNS Servers, the More the Merrier](https://webmedia.company.ja.net/content/documents/shared/networkshop300310/clouter_dnsserversthemorethemerrier.pdf) - Why You Need More Than Two

@@ -5,45 +5,37 @@
 
             **Head of Infrastructure**
 
-            TODO
+            Heading teams of between three and ten as well as hiring and training
+
+            Ran a $500k annual budget
+
+            Reduced development cycles from weeks to hours
+
+            Primary investigator for fraud, detection, investigation and reporting through media outlets
+
+            Prototype and product building, [Plan Blue](http://www.plan.blue) was one of these making its first $1m within six months
+
+            Worked through auditing processes that led to [MRC](http://www.mediaratingcouncil.org) accreditation
+
+            Reduced downtime, lowered maintenance and increased system autonomy in responding to failures
 
 2005-2011   **[School of Oriental and African Studies (SOAS), London](https://www.soas.ac.uk)**
 
             **Infrastructure Support Analyst**
  
-            Cisco IOS routing and switching with PIX/iptables firewalling
-
-            LanWarden - LDAP/RADIUS policy based 802.1X/MAC-auth networking with DNS/DHCP and SQL asset tracking system
-
             full production IPv6 and multicast rollout
-
-            deployment and administrator for \emph{eduroam}
-
-            built HA anycasted RADIUS, syslog, DNS and \mbox{HTTP proxy}
 
             discover, assess and resolve single points of failure
 
-            Solaris/ZFS/Amanda for Endangered Languages Archive
-
-            migrate DNS infrastructure to split-split DNS configuration
-
             upgrade network infrastructure from L2 to L3 topology
 
-            built PXE service with imaging and custom backup service
-
             maintain multicast IPTV service, portal and custom SAP proxy
-
-            network monitoring (Nagios) and change control (RANCID)
-
-            wrote a IP/DNS protection with self-service whitelister
 
             cost analysis of PBX options over a five year period
 
             deploy Tandberg video conferencing service and QA testing
 
             documentation for end-users (main website) and colleagues
-
-            SLAACer - DHCPv6-less IPV6/MAC bi-directional mapping service
 
 2003-2005   **[Parbin Ltd - MetroNet, London](http://www.metronet.co.uk)**
 

@@ -9,6 +9,7 @@
  * negotiating contracts
  * challenging dysfunctional tradition
  * improved communications between teams
+ * handling accreditation and auditing processes
 
 ### Technical
 
