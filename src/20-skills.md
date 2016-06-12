@@ -2,7 +2,13 @@
 
 ### Managerial
 
-
+ * running teams from two to ten people
+ * hiring, training and inspiring staff
+ * $500k annual budget for infrastructure
+ * liaising with external parties, clients, hostile third parties and journalists
+ * negotiating contracts
+ * challenging dysfunctional tradition
+ * improved communications between teams
 
 ### Technical
 
