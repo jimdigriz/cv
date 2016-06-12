@@ -13,7 +13,7 @@
 
             Primary investigator for fraud, detection, investigation and reporting through media outlets
 
-            Prototype and product building, [Plan Blue](http://www.plan.blue) was one of these making its first $1m within six months
+            Rapid prototyping, MVP development and product delivery to market
 
             Worked through auditing processes that led to [MRC](http://www.mediaratingcouncil.org) accreditation
 
