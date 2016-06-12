@@ -9,3 +9,5 @@ The commercials fascinate me as much as the technicalities of new product develo
 I am acutely aware that of the challenges in bringing a service to market, the software and infrastructure components make up only a minor part.  Problems in the market require questioning, evaluation and understanding to have a chance of being able to produce a product that addresses those needs.  Clients occasionally have answers or clues to what a solution might look like, though for the purposes of consultancy what is most valuable is their description of the problem space and how, if at all, they address it.  Consultancy is a process that should make yourself valuable to the client.
 
 This is how I think about problems and their solutions.  I enjoy solving problems, I want to understand and solve yours.
+
+\newpage
