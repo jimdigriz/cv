@@ -2,7 +2,7 @@
 
 Over fifteen years I accumulated the technical and management experience to build, maintain and evolve highly available services at scale, while not having the budget of the global giants.  Though I can build out these services myself, I prefer to teach others the skills to do this and avoid the pitfalls I know too well.
 
-Though my background is of a system and network administration one, I am a polyglot in programming languages, learning others as and when the problem space demands it.  I am comfortable regularly rolling up my sleeves to `strace`, `tcpdump`, reading source code and committing changes that go on to make everyone's lives better.
+Though my background is system and network administration, I am a polyglot in programming languages, learning others as and when the problem space demands it.  I am comfortable regularly rolling up my sleeves to `strace`, `tcpdump`, reading source code and committing changes that go on to make everyone's lives better.
 
 The commercials fascinate me as much as the technicalities of new product development, prototyping, building a minimum viable product and its delivery to market, as well as adapting existing services so that they scale.  I believe it is crucial that an organisation is able to iterate through this with ease and speed so that the good ideas are identified and grown upon and resources are not squandered on dead ends.
 
