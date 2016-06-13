@@ -1,5 +1,8 @@
 FILES := $(sort $(wildcard src/*.md))
 
+SERVER = marmot.wormnet.eu
+LOCATION = http/werc/sites/digriz.org.uk/.cv
+
 all: doit
 .PHONY: all
 
@@ -25,3 +28,7 @@ doit: $(TARGETS)
 clean:
 	rm -f $(TARGETS)
 .PHONY: clean
+
+deploy: $(TARGETS)
+	rsync -P $^ $(SERVER):$(LOCATION)/
+.PHONY: deploy
