@@ -5,9 +5,9 @@
 
             **Head of Infrastructure**
 
-            Heading teams of between three and ten as well as hiring and training
+            Ran teams of between three and ten as well as hiring and training
 
-            Ran a $500k annual budget
+            Worked with a $500k annual budget
 
             Reduced development cycles from weeks to hours
 
@@ -15,7 +15,7 @@
 
             Rapid prototyping, MVP development and product delivery to market
 
-            Worked through auditing processes that led to [MRC](http://www.mediaratingcouncil.org) accreditation
+            Handled auditing processes that led to [MRC](http://www.mediaratingcouncil.org) accreditation
 
             Reduced downtime, lowered maintenance and increased system autonomy in responding to failures
 
