@@ -35,6 +35,8 @@
 
             deploy Tandberg video conferencing service and QA testing
 
+            automated the migration of 1000 user accounts from Netware to Google for Education
+
             documentation for end-users (main website) and colleagues
 
 2003-2005   **[Parbin Ltd - MetroNet, London](http://www.metronet.co.uk)**

@@ -14,3 +14,4 @@ Whilst there, and due to my involvements with eduroam, 802.1X and FreeRADIUS I w
  * [DNS Hijacking and IP Blackholing](https://github.com/jimdigriz/network-layer-protection) - made the network infrastructure another layer of protection for our users from downloading infectious payloads and phishing attacks whilst also providing the network team an easy way to discover the many instances that anti-virus software had failed
  * [SLACCers](https://github.com/jimdigriz/slaacer) - IPv6 Accountability without DHCPv6
  * [DNS Servers, the More the Merrier](https://webmedia.company.ja.net/content/documents/shared/networkshop300310/clouter_dnsserversthemorethemerrier.pdf) - Why You Need More Than Two
+ * automated the migration of 1000 user accounts from Netware to Google for Education - produced a self service web based frontend that let users migrate their account with minimal downtime
