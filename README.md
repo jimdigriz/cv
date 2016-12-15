@@ -8,7 +8,7 @@ These instructions have been tested on a Debian 'jessie' 8.x system, though afte
 
     sudo apt-get install make pandoc texlive-latex-base lmodern texlive-fonts-recommended rsync
 
-    git clone https://github.com/jimdigriz/cv
+    git clone https://gitlab.com/jimdigriz/cv.git
 
 # Build
 
