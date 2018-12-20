@@ -1,7 +1,11 @@
 ## Employment
 
 ----------- ------------------------------------------------------------------
-2011-2016   **[Telemetry Ltd, London](https://telemetry.com/)**
+currently   **[coreMem Limited](https://coremem.com)**
+
+            **Director**
+
+2011-2016   **[Telemetry Ltd, London](https://telemetry.com)**
 
             **Head of Infrastructure**
 
