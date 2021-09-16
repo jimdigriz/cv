@@ -4,11 +4,10 @@ Currently generates HTML, PDF and DOCX output, though trivially cut'n'pasting in
 
 # Preflight
 
-These instructions have been tested on a Debian 'jessie' 8.x system, though after figuring out the dependencies, it should work on other systems too.
-
-    sudo apt-get install make pandoc texlive-latex-base lmodern texlive-fonts-recommended rsync
+These instructions have been tested on a Debian 'bullseye' 11.x system:
 
     git clone https://gitlab.com/jimdigriz/cv.git
+    sudo apt-get -y install --no-install-recommends lmodern make pandoc rsync texlive-fonts-recommended texlive-latex-recommended texlive-latex-base
 
 # Build
 

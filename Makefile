@@ -3,32 +3,32 @@ FILES := $(sort $(wildcard src/*.md))
 SERVER = marmot.wormnet.eu
 LOCATION = http/werc/sites/digriz.org.uk/.cv
 
-all: doit
 .PHONY: all
+all: build
 
-TARGETS += cv.md
 cv.md: $(FILES)
 	pandoc -t markdown -o $@ $^
+TARGETS += cv.md
 
-TARGETS += cv.html
 cv.html: $(FILES)
-	pandoc --self-contained -t html5 -o $@ $^
+	pandoc --self-contained -t html5 --metadata title="Curriculum Vitae" -o $@ $^
+TARGETS += cv.html
 
-TARGETS += cv.pdf
 cv.pdf: $(FILES)
-	pandoc -t latex -o $@ $^
+	pandoc -t latex --variable urlcolor='[HTML]{0000ff}' -o $@ $^
+TARGETS += cv.pdf
 
-TARGETS += cv.docx
 cv.docx: $(FILES)
 	pandoc -t docx -o $@ $^
+TARGETS += cv.docx
 
-doit: $(TARGETS)
-.PHONY: doit
+.PHONY: build
+build: $(TARGETS)
 
+.PHONY: clean
 clean:
 	rm -f $(TARGETS)
-.PHONY: clean
 
+.PHONY: deploy
 deploy: $(TARGETS)
 	rsync -P $^ $(SERVER):$(LOCATION)/
-.PHONY: deploy
