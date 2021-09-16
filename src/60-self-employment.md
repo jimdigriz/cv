@@ -2,9 +2,7 @@
 
 ## coreMem Limited, Director
 
-Since choosing self employment, I have been fortunate to retain a diverse set of clients each with their own needs and challenges. This has also allowed me to pursue my own product development.
-
-The client describes their commercial or strategic deadline and we discuss how to scheduled those works with my in with on going 
+Since choosing self employment, I have been fortunate to retain a diverse set of clients each with their own needs and challenges. This has also enabled me to pursue product development.
 
 ### Notable Projects
 
